@@ -1,0 +1,14 @@
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\bin\Debug\net8.0\task.exe
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\bin\Debug\net8.0\task.deps.json
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\bin\Debug\net8.0\task.runtimeconfig.json
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\bin\Debug\net8.0\task.dll
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\bin\Debug\net8.0\task.pdb
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\obj\Debug\net8.0\task.dll
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\obj\Debug\net8.0\refint\task.dll
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\obj\Debug\net8.0\task.pdb
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+F:\Rout\.Net\C#\Session 03\Assignments\task_4\task\obj\Debug\net8.0\ref\task.dll
